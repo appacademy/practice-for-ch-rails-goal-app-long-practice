@@ -14,7 +14,7 @@ your users toward their hopes and dreams.
 By the end of this practice, you should be able to
 
 - Write model and request tests using RSpec
-- Write integration tests using Capybara and RSpec
+- Write system tests using Capybara and RSpec
 - Determine what and when to test
 - Test **behavior** rather than **implementation**
 - Develop one feature at a time (the 'slices' approach)
