@@ -377,7 +377,7 @@ boot up time if you have many and/or long support files. (You should be okay in
 this case, however.)
 
 There is one more step in this alternative option. Still in __rails_helper.rb__,
-add the following line inside the `RSpec.configure`:
+add the following line inside `RSpec.configure`:
 
 ```rb
 config.include AuthSystemHelper, type: :system
