@@ -52,7 +52,7 @@ page will have comments, and each goal will also have comments.
 For now, you will implement the comments using two different tables,
 `UserComment` and `GoalComment`. In a few days, when you have learned about
 polymorphic associations and concerns, you will then return to this project and
-refactor your comment code DRying it up significantly.
+refactor your comment code DRYing it up significantly.
 
 The best part about this refactor? The tests that you write today will ensure
 that you do it correctly! That's the great benefit of testing behavior instead
