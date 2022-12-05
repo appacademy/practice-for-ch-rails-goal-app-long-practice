@@ -1,6 +1,6 @@
 # Goal App
 
-- [Live Demo]
+[Live Demo]
 
 Today you're going to create an app to help people keep track of goals they set
 for themselves. You'll also add a social element where people can view and
