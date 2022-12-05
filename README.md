@@ -7,7 +7,7 @@ for themselves. You'll also add a social element where people can view and
 comment on each other's goals, harnessing the power of **social** to motivate
 your users toward their hopes and dreams.
 
-[Live Demo]: https://goal-app-demo.herokuapp.com/
+[Live Demo]: https://aa-goal-app.herokuapp.com/
 
 ## Learning goals
 
